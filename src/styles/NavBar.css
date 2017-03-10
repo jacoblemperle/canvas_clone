@@ -1,0 +1,25 @@
+.navbar {
+    background-color: #275d38;
+    width: 85px;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    text-align: center;
+}
+
+.navbar p {
+    margin: 0;
+    color: white;
+    font-size: 12px;
+}
+
+.navbar i {
+    margin-top: 15px;
+    color: white;
+    font-size: 25px;
+}
+
+.nav-image {
+    height: 85px;
+}
